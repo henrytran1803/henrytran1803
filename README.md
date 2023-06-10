@@ -23,4 +23,3 @@ I come from a HCM. This passion led me to pursue a career in the field of softwa
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=henrytran1803)  
 
-![Profile views](https://gpvc.arturio.dev/henrytran1803)  
