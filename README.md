@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://www.canva.com/design/DAFlaRDb164/ph7ZLmnvmUaIAoiEEwxEKQ/edit?utm_content=DAFlaRDb164&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![Top Langs](https://github.com/henrytran1803/henrytran1803/blob/main/HENRY%20TRAN.png)]
 <!--
 **henrytran1803/henrytran1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
