@@ -22,7 +22,7 @@ I come from a HCM. This passion led me to pursue a career in the field of softwa
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrytran1803)](https://github.com/anuraghazra/github-readme-stats)
 ## Starts
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrytran1803&show_icons=true&count_private=true)  
-##Metrics
+## Metrics
 ![GitHub metrics](https://metrics.lecoq.io/henrytran1803)  
 ## Steak
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=henrytran1803)  
