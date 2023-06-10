@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/henrytran1803/henrytran1803/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)]
 <!--
 **henrytran1803/henrytran1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
