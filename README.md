@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Tran Viet Anh
+![Banner](https://github.com/henrytran1803/henrytran1803/blob/main/HENRY%20TRAN.png)
 #### About me
-![About me](https://github.com/henrytran1803/henrytran1803/blob/main/HENRY%20TRAN.png)
+
 
 I come from a HCM. This passion led me to pursue a career in the field of software engineering. I completed my education at PTIT with a degree in IT. Throughout my academic journey, I acquired a solid foundation in software development, algorithms, data structures, and other fundamental concepts.
 
