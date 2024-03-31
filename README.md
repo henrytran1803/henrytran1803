@@ -8,7 +8,7 @@ I come from a HCM. This passion led me to pursue a career in the field of softwa
 - 👨🏻‍💻 Age 21.
 - 📍 From HCM, VIETNAM.
 - 🏫 PTITHCM.
-- 🏋🏻‍♀️ squat 178kg, deadlift 210kg, bechpress 120kg: Total 508kg.
+- 🏋🏻‍♀️ squat 180kg, deadlift 220kg, bechpress 130kg: Total 530kg.
 - 🔭 I’m currently working on __. 
 - 🌱 I’m currently learning __. 
 ## Contact
